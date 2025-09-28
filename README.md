@@ -1,4 +1,7 @@
 *sreenshots below* <br>
+
+# Vector Field Visualizer
+
 This is a simple vector field visualization tool made in Unity. I created it in April 2021, during the pandemic lockdown, but I recently found out about it while cleaning some files from the computer and I thought of uploading it here. <br>
 I remember being inspired to create this programme from a [3 blue 1 brown video on exponentiating matricies](https://youtu.be/O85OWBJ2ayo). After creating the visualization and simulation part of the application, I also wanted to be able to control the field equations from inside the programme. So, I took challenage to create an expression parser all by myself. This had some success: The expression parser **mostly** works. There are some bugs that I remember not being able to fixed - the code started resembling some italian pasta which I wasn't particularly keen on bothering with. But it does work well enough to be somwhat functional. I remember feeling quite happy with the result.
 
